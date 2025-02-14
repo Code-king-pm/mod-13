@@ -118,3 +118,9 @@ tbody tr:nth-child(odd) {
   width: 80vw;
   table-layout: fixed;
 }
+.imgSize {
+max-width: 10%;
+margin: 1%;
+
+
+}
