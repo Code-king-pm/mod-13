@@ -1,5 +1,5 @@
 
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = import.meta.env.VITE_GITHUB_TOKEN;
 
 console.log('GitHub Token:', GITHUB_TOKEN);
 
