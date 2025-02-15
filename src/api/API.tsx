@@ -1,5 +1,5 @@
 
-const GITHUB_TOKEN = "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";
+const GITHUB_TOKEN = "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";
 
 console.log('GitHub Token:', GITHUB_TOKEN);
 
